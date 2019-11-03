@@ -8,29 +8,29 @@ Edit chest description: =
 
 # Colors
 Black =
-Blue =
-Brown =
-Cyan =
-Dark Green =
 Dark Grey =
-Green =
-Grey =
-Magenta =
-Orange =
+Silver =
+White =
+Brown=
 Pink =
 Red =
-Violet =
-White =
+Orange =
 Yellow =
+Green =
+Dark Green =
+Cyan =
+Blue =
+Violet =
+Magenta =
 None =
 
 # Materials
-Copper =
-Gold =
-Iron =
-Mithril =
-Silver =
 Wooden =
+Iron =
+Copper =
+Silver =
+Gold =
+Mithril =
 
 # Sorting
 Sort =
